@@ -1,0 +1,37 @@
+[{
+        "title": "HTML5",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS3",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/javascript.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Bootstrap",
+        "imageSrc": "skills/bootstrap.png"
+    },
+    {
+        "title": "Firebase",
+        "imageSrc": "skills/firebase.png"
+    },
+    {
+        "title": "Github",
+        "imageSrc": "skills/github.png"
+    },
+    {
+        "title": "Material UI",
+        "imageSrc": "skills/materialui.png"
+    },
+    {
+        "title": "Redux",
+        "imageSrc": "skills/redux.png"
+    }
+]

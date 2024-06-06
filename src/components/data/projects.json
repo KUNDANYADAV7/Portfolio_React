@@ -1,0 +1,73 @@
+[{
+        "key": 1,
+        "title": "Expense-Manager",
+        "imageSrc": "projects/expense-manager.png",
+        "description": "Expense Manager built with React.js and Firebase, utilizing Bootstrap for streamlined UI and CRUD functionality.",
+        "demo": "https://expenser-manager.netlify.app/",
+        "source": "https://www.github.com"
+    },
+    {
+        "key": 2,
+        "title": "Cookie Manager",
+        "imageSrc": "projects/cookie-manager.png",
+        "description": "A React.js application managing cookies with built-in todo-list functionalities for adding and deleting tasks.",
+        "demo": "https://cookie-manager.netlify.app/",
+        "source": "https://github.com/KUNDANYADAV7/Cookies-Manager"
+    },
+    {
+        "key": 3,
+        "title": "Student Management",
+        "imageSrc": "projects/student-management.png",
+        "description": "A Firebase-powered student management application enabling seamless CRUD operations for efficient academic tracking.",
+        "demo": "https://student-management-firebase.netlify.app/",
+        "source": "https://github.com/KUNDANYADAV7/firebase-crud/"
+    },
+    {
+        "key": 4,
+        "title": "Customer Management",
+        "imageSrc": "projects/customer-management.png",
+        "description": "A React-based customer management system with dynamic product selection from an API, allowing for seamless CRUD operations.",
+        "demo": "https://customer-management-nestedapi-86adf4.netlify.app/",
+        "source": "https://github.com/KUNDANYADAV7/nestedapi1"
+    },
+    {
+        "key": 5,
+        "title": "Invoice Generator",
+        "imageSrc": "projects/invoice-generator.png",
+        "description": "A React-based invoice generator allowing users to add multiple items with name, rate, quantity, and automatically calculating the total amount.",
+        "demo": "https://invoice-generator-71.netlify.app/",
+        "source": "https://github.com/KUNDANYADAV7/invoice-generator2"
+    },
+    {
+        "key": 6,
+        "title": "Amazone Clone",
+        "imageSrc": "projects/amazon-clone.png",
+        "description": "An Amazon clone crafted with HTML and CSS, meticulously replicating the user interface and responsive layout of the original platform for seamless browsing across different screen sizes.",
+        "demo": "https://amazon-clone-78.netlify.app/",
+        "source": "https://github.com/KUNDANYADAV7/Amazon-clone"
+    },
+    {
+        "key": 7,
+        "title": "Whatsapp Clone",
+        "imageSrc": "projects/whatsapp.png",
+        "description": "WhatsApp clone created with React.js and Firebase, providing a seamless messaging experience with real-time updates and robust user authentication.",
+        "demo": "https://whats-app-clone-89af4.web.app/",
+        "source": "https://github.com/KUNDANYADAV7/whatsapp-clone"
+    },
+    {
+        "key": 8,
+        "title": "Age Calculator",
+        "imageSrc": "projects/age-calculator1.png",
+        "description": "Age calculator tool computes precise age, including years, months, days, and time, using HTML, CSS, and JavaScript.",
+        "demo": "https://amazon-clone-78.netlify.app/",
+        "source": "https://github.com/KUNDANYADAV7/Amazon-clone"
+    },
+    {
+        "key": 8,
+        "title": "To Do List",
+        "imageSrc": "projects/todo-list.png",
+        "description": "Todo list app crafted with HTML, CSS, and JavaScript, featuring task addition and deletion functionalities to streamline task management.",
+        "demo": "https://todo-list67.netlify.app/",
+        "source": "https://github.com/KUNDANYADAV7/To-Do-List"
+    }
+]
